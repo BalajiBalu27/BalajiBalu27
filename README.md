@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @BalajiBalu27
 - 👀 I’m interested in Ethical Hacking 
 - 🌱 I’m currently learning devops
-- 💞️ I’m looking to collaborate on ?
+- 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me bala07balu@gmail.com
 
 <!---
